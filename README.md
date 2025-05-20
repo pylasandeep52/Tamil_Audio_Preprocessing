@@ -1,9 +1,7 @@
 ````markdown
 # Tamil Audio Preprocessing
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Tamil_Audio_Preprocessing-blue?logo=github)](https://github.com/pylasandeep52/Tamil_Audio_Preprocessing)
-
-## Overview
+**Overview**
 
 This repository contains a complete audio preprocessing pipeline for Tamil audio files. It loads raw `.mp3` audio data, trims silence, normalizes the audio, and extracts key features including:
 
@@ -17,7 +15,6 @@ The project uses Python libraries such as `librosa`, `matplotlib`, `numpy`, and 
 
 ## Repository Structure
 
-```plaintext
 Tamil_Audio_Preprocessing/
 ├── Dataset/                    # Raw Tamil audio files (.mp3)
 ├── ProcessedAudio/             # Preprocessed audio files (.wav)
