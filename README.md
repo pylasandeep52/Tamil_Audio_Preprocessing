@@ -81,18 +81,6 @@ The notebook will:
 
 ---
 
-## Example Visualizations
-
-### MFCC Example
-
-![MFCC Example](MFCC_Images/example_mfcc.png)
-
-### Mel-Spectrogram Example
-
-![Mel Spectrogram Example](MelSpec_Images/example_melspec.png)
-
----
-
 ## Notes
 
 * Audio is processed at 22,050 Hz sample rate and converted to mono.
@@ -104,9 +92,4 @@ The notebook will:
 
 ---
 
-## Contributing
-
-Feel free to submit issues or pull requests for improvements.
-
----
 
