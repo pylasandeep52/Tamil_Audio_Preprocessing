@@ -1,6 +1,6 @@
 ````markdown
 # Tamil Audio Preprocessing
----
+
 ##Overview
 
 This repository contains a complete audio preprocessing pipeline for Tamil audio files. It loads raw `.mp3` audio data, trims silence, normalizes the audio, and extracts key features including:
@@ -10,8 +10,6 @@ This repository contains a complete audio preprocessing pipeline for Tamil audio
 - MFCC (Mel Frequency Cepstral Coefficients)
 
 The project uses Python libraries such as `librosa`, `matplotlib`, `numpy`, and `soundfile` for audio processing and visualization.
-
----
 
 ## Repository Structure
 
